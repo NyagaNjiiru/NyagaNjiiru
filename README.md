@@ -1,4 +1,4 @@
-### Hi there :)
+### Hello there :)
 - I'm currently working on my school project, an ML model for digitizing handwritten data.
 - I'm looking forward to finishing school in order to learn C# and develop a 2D pixel RPG.
 
