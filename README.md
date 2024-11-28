@@ -1,7 +1,7 @@
 ### Hello there :)
-- I'm currently working on a CRM, an E-Commerce web app, a booking management web app, and portfolio projects.
-- I'm currently learning UI/UX design (Figma, Illustrator), Unity, Blender, and scripting with C# for game development.
-- I'm looking forward to developing a 2D pixel RPG as my first game.
+- 🔭 I'm currently working on a CRM, an E-Commerce web app, a booking management web app, and portfolio projects.
+- 🌱 I'm currently learning UI/UX design (Figma, Illustrator), Unity, Blender, and scripting with C# for game development.
+- 😄 I'm looking forward to developing a 2D pixel RPG as my first game.
 
 <!--
 **NyagaNjiiru/NyagaNjiiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
