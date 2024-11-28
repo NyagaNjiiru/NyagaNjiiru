@@ -1,6 +1,7 @@
 ### Hello there :)
-- I'm currently working on my school project, an ML model for digitizing handwritten data.
-- I'm looking forward to finishing school in order to learn C# and develop a 2D pixel RPG.
+- I'm currently working on a CRM, an E-Commerce Web App, a booking management web app, and portfolio projects.
+- I'm currently learning UI/UX design (Figma, Illustrator), Unity, Blender, and scripting with C# for game development.
+- I'm looking forward to developing a 2D pixel RPG as my first game.
 
 <!--
 **NyagaNjiiru/NyagaNjiiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
