@@ -1,6 +1,6 @@
 ### Hello there :)
 - 🔭 I'm currently working on a CRM, an E-Commerce web app, a booking management web app, and portfolio projects.
-- 🌱 I'm currently learning UI/UX design (Figma, Illustrator), Unity, Blender, and scripting with C# for game development.
+- 🌱 I'm currently learning UI/UX design (Figma, Illustrator), Godot, GDScript, Blender, and scripting with C# for game development.
 - 😄 I'm looking forward to developing a 2D pixel RPG as my first game.
 
 <!--
