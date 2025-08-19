@@ -1,5 +1,5 @@
-> hi
-> i explore systems, security & automation...
+`> hi`
+`> i explore systems, security & automation...`
 
 <!--
 **NyagaNjiiru/NyagaNjiiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
